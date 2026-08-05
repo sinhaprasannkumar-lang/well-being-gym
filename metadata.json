@@ -1,0 +1,6 @@
+{
+  "name": "The Wellness Club Gym Xpress",
+  "description": "Premium fitness club in NIT-1 Faridabad with modern equipment, certified coaches, and custom workout plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
